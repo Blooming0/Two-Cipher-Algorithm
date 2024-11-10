@@ -1,7 +1,7 @@
 # Two Cipher Algorithm😁
 ## This program was created using two coding Algorithm: ***rot13 Cipher*** & ***caesar Cipher***.
 ### It may be expanded in the coming days..🤔
-### To create this project, plain JavaScript was used with the Tailwind CSS framework.
+### this project created By, vanila JavaScript was used with the Tailwind-CSS framework.
 # 
 
 
